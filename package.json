@@ -1,0 +1,13 @@
+{ 
+  "name": "system-tasks-viewer",   
+  "version": "1.0.0", 
+  "private": true, 
+  "description": "A keyboard-driven terminal dashboard for system activity and process monitoring.", 
+  "type": "module", 
+  "scripts": { 
+    "start": "node src/index.js" 
+  }, 
+  "engines": {
+     "node": ">=18"  
+  }  
+}
